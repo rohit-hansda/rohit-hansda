@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-- 🎓 First Year **BCA Student**
+- 🎓 Second Year **BCA Student**
 - 🇮🇳 From India
 - 🌱 Currently learning **Python, HTML, CSS & JavaScript**
 - 💻 Interested in **Web Development**
